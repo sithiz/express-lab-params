@@ -28,8 +28,6 @@ app.get('/magic/:Question',(request,response)=>{
 
 
 
-
-
 app.listen(9000)
 
 
